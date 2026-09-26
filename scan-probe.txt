@@ -1,1 +1,2 @@
-Non-secret required-workflow qualification fixture.
+Deliberately nonfunctional required-scanner qualification fixture.
+AKIAIOSFODNN7REALKEY
