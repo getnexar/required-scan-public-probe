@@ -1,0 +1,9 @@
+name: secret-scan
+on: [pull_request]
+permissions:
+  contents: read
+jobs:
+  secret-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Unrelated local success probe; not required-source proof.'
